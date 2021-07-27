@@ -1,0 +1,9 @@
+{
+    "name": "Terminal Commands Test",
+    "description": "Run some commands in a terminal",
+    "pattern": "^\\$:?.*",
+    "exec": "main.py",
+    "icon": "utilities-terminal",
+    "fill": "run ",
+    "examples": ""
+}
